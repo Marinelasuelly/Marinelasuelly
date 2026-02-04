@@ -1,5 +1,6 @@
 ## Hi there 👋
 ✨Computer science student at Piaget Almada 
+You can find me on https://www.instagram.com/marinelasuelly/
 
 # 💫 About Me:
 🔭 I’m currently working on developing personal software projects while strengthening my core programming and problem-solving skills.<br> I’m looking to collaborate on Student projects, open-source initiatives, or practical software development projects.<br> I’m looking for help with Identifying the Computer Science field that best aligns with my interests and career goals.<br> I’m currently learning Python, and software development fundamentals with a focus on writing clear, structured code.<br> Ask me about Studying Computer Science, programming, and transitioning from student to professional.<br>⚡ I chose Computer Science because I enjoy turning logical ideas into real solutions.
