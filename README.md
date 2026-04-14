@@ -16,18 +16,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Marinelasuelly&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-### 🏆 Meus Troféus e Estatísticas
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marinelasuelly&theme=onedark&column=4" alt="trophies" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marinelasuelly&show_icons=true&theme=onedark" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinelasuelly&layout=compact&theme=onedark" alt="languages" />
-</p>
-
----
 ![](https://github-profile-trophy.vercel.app/?username=Marinelasuelly&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
 ---
